@@ -5,7 +5,6 @@
 - TODO
 }
 
-
 {-
 A funcao square esta implementada e eleva ao quadrado um determinado numero
 -}
